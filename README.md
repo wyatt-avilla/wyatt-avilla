@@ -9,4 +9,4 @@
 
 ### LeetCode
 
-![LeetCode Stats](https://leetcode.card.workers.dev/wowitswyatt?theme=auto&font=segoe_ui&extension=null&animation=false&show_rank=false&theme=light)
+[![LeetCode Stats](https://leetcode.card.workers.dev/wowitswyatt?theme=auto&font=segoe_ui&extension=null&animation=false&show_rank=false&theme=light)](https://leetcode.com/wowitswyatt/)
